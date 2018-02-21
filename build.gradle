@@ -21,8 +21,8 @@ allprojects {
 ext {
   groupId = 'me.riyaz'
   artifactId = 'spock'
-  versionCode = 1
-  versionName = '1.0'
+  versionCode = 2
+  versionName = '2.0'
   url = 'https://github.com/riyaz/spock'
   vcsUrl = 'https://github.com/riyaz/spock.git'
   description = 'Java 8 Backport for Android'
